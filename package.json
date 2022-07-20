@@ -1,0 +1,19 @@
+{
+  "name": "project4",
+  "version": "1.0.0",
+  "description": "Travel-web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songlong2205/Travel.git"
+  },
+  "author": "SongLong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songlong2205/Travel/issues"
+  },
+  "homepage": "https://github.com/songlong2205/Travel#readme"
+}
